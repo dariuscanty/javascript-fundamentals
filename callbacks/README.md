@@ -1,0 +1,2 @@
+What is a callback?
+    A callback is a function that is passed to another function so it can be invoked inside that function's body. The most commonly used callback methods are the forEach and setTimeout methods.
